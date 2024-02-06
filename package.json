@@ -1,6 +1,7 @@
 {
   "name": "uni",
   "version": "0.1.0",
+  "homepage": "https://krstnee.github.io/Shop_with_cart",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
